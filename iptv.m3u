@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:0,Shot TV
+http://10.0.15.171:8003/play/23/index.m3u8
+#EXTINF:0,KinoJam1
+http://10.0.15.170:8002/play/36/index.m3u8
+#EXTINF:0,Матч! Премьер HD
+http://10.0.15.172:8004/play/102/index.m3u8
+#EXTINF:0,Дорама
+http://10.0.15.169:8001/play/113/index.m3u8
+#EXTINF:0,ТНТ4
+http://10.0.15.170:8002/play/129/index.m3u8
+#EXTINF:0,Наука
+http://10.0.15.170:8002/play/146/index.m3u8
+#EXTINF:0,РенТВ
+http://10.0.15.172:8004/play/1/index.m3u8
+#EXTINF:0,Fashion TV
+http://10.0.15.170:8002/play/10/index.m3u8
+#EXTINF:0,Киносерия
+http://10.0.15.169:8001/play/25/index.m3u8
+#EXTINF:0,НТВ
+http://10.0.15.172:8004/play/35/index.m3u8
+#EXTINF:0,Грозный
+http://10.0.15.169:8001/play/52/index.m3u8
+#EXTINF:0,viju Explore
+http://10.0.15.170:8002/play/62/index.m3u8
+#EXTINF:0,Индийское кино
+http://10.0.15.171:8003/play/78/index.m3u8
+#EXTINF:0,N1
+http://10.0.15.169:8001/play/87/index.m3u8
+#EXTINF:0,RTG TV
+http://10.0.15.171:8003/play/106/index.m3u8
+#EXTINF:0,Продвижение
+http://10.0.15.170:8002/play/114/index.m3u8
+#EXTINF:0,Первый канал
+http://10.0.15.170:8002/play/3/index.m3u8
+#EXTINF:0,Первый канал HD
+http://10.0.15.172:8004/play/11/index.m3u8
+#EXTINF:0,Terra
+http://10.0.15.169:8001/play/17/index.m3u8
+#EXTINF:0,Кинокомедия
+http://10.0.15.170:8002/play/27/index.m3u8
+#EXTINF:0,Дикий
+http://10.0.15.171:8003/play/38/index.m3u8
+#EXTINF:0,МИР
+http://10.0.15.172:8004/play/46/index.m3u8
+#EXTINF:0,Родное кино
+http://10.0.15.169:8001/play/53/index.m3u8
+#EXTINF:0,viju History
+http://10.0.15.172:8004/play/63/index.m3u8
+#EXTINF:0,Карусель
+http://10.0.15.172:8004/play/70/index.m3u8
+#EXTINF:0,Ля минор
+http://10.0.15.170:8002/play/79/index.m3u8
+#EXTINF:0,Мульт HD
+http://10.0.15.171:8003/play/89/index.m3u8
+#EXTINF:0,Кинохит
+http://10.0.15.171:8003/play/99/index.m3u8
+#EXTINF:0,Домашние животные
+http://10.0.15.170:8002/play/107/index.m3u8
+#EXTINF:0,Cinema
+http://10.0.15.171:8003/play/115/index.m3u8
+#EXTINF:0,Суббота
+http://10.0.15.169:8001/play/120/index.m3u8
+#EXTINF:0,Россия 1
+http://10.0.15.171:8003/play/4/index.m3u8
+#EXTINF:0,Дикая рыбалка HD
+http://10.0.15.170:8002/play/55/index.m3u8
+#EXTINF:0,СТС
+http://10.0.15.171:8003/play/5/index.m3u8
+#EXTINF:0,Загородная Жизнь
+http://10.0.15.169:8001/play/14/index.m3u8
+#EXTINF:0,Шансон ТВ
+http://10.0.15.169:8001/play/29/index.m3u8
+#EXTINF:0,Кухня ТВ
+http://10.0.15.169:8001/play/44/index.m3u8
+#EXTINF:0,Bridge
+http://10.0.15.170:8002/play/67/index.m3u8
+#EXTINF:0,Hollywood HD
+http://10.0.15.171:8003/play/82/index.m3u8
+#EXTINF:0,ТНР24
+http://10.0.15.169:8001/play/96/index.m3u8
+#EXTINF:0,2x2
+http://10.0.15.172:8004/play/109/index.m3u8
+#EXTINF:0,Авторадио
+http://10.0.15.170:8002/play/118/index.m3u8
+#EXTINF:0,История
+http://10.0.15.170:8002/play/132/index.m3u8
+#EXTINF:0,ТВ Центр
+http://10.0.15.169:8001/play/6/index.m3u8
+#EXTINF:0,Россия К
+http://10.0.15.171:8003/play/8/index.m3u8
+#EXTINF:0,Россия 24
+http://10.0.15.169:8001/play/30/index.m3u8
+#EXTINF:0,Моя Планета
+http://10.0.15.170:8002/play/33/index.m3u8
+#EXTINF:0,Че!
+http://10.0.15.171:8003/play/56/index.m3u8
+#EXTINF:0,.red HD
+http://10.0.15.172:8004/play/59/index.m3u8
+#EXTINF:0,360
+http://10.0.15.170:8002/play/83/index.m3u8
+#EXTINF:0,365 дней ТВ
+http://10.0.15.169:8001/play/85/index.m3u8
+#EXTINF:0,Россия 1 HD
+http://10.0.15.171:8003/play/110/index.m3u8
+#EXTINF:0,ЕГЭ ТВ
+http://10.0.15.171:8003/play/112/index.m3u8
+#EXTINF:0,Самотлор HD
+http://10.0.15.169:8001/play/133/index.m3u8
+#EXTINF:0,Бокс ТВ
+http://10.0.15.172:8004/play/135/index.m3u8
+#EXTINF:0,Europa Plus TV
+http://10.0.15.170:8002/play/168/index.m3u8
+#EXTINF:0,Матч! Игра HD
+http://10.0.15.170:8002/play/170/index.m3u8
+#EXTINF:0,НТВ Хит
+http://10.0.15.170:8002/play/206/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+http://10.0.15.169:8001/play/210/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+http://10.0.15.171:8003/play/232/index.m3u8
+#EXTINF:0,viju+ Premiere
+http://10.0.15.169:8001/play/242/index.m3u8
+#EXTINF:0,Известия
+http://10.0.15.171:8003/play/19/index.m3u8
+#EXTINF:0,ТНТ
+http://10.0.15.169:8001/play/7/index.m3u8
+#EXTINF:0,8 канал
+http://10.0.15.172:8004/play/31/index.m3u8
+#EXTINF:0,Наше новое кино
+http://10.0.15.170:8002/play/57/index.m3u8
+#EXTINF:0,Мультимузыка
+http://10.0.15.171:8003/play/84/index.m3u8
+#EXTINF:0,ТВ-3
+http://10.0.15.169:8001/play/111/index.m3u8
+#EXTINF:0,Кино ТВ HD
+http://10.0.15.171:8003/play/134/index.m3u8
+#EXTINF:0,Ностальгия
+http://10.0.15.171:8003/play/169/index.m3u8
+#EXTINF:0,Матч! СТРАНА
+http://10.0.15.169:8001/play/208/index.m3u8
+#EXTINF:0,КВН ТВ
+http://10.0.15.171:8003/play/241/index.m3u8
+#EXTINF:0,ОТР
+http://10.0.15.170:8002/play/9/index.m3u8
+#EXTINF:0,РБК-ТВ
+http://10.0.15.172:8004/play/13/index.m3u8
+#EXTINF:0,Russia Today Doc
+http://10.0.15.169:8001/play/34/index.m3u8
+#EXTINF:0,eXtremeSport
+http://10.0.15.172:8004/play/42/index.m3u8
+#EXTINF:0,viju TV1000 Русское
+http://10.0.15.172:8004/play/61/index.m3u8
+#EXTINF:0,RU TV
+http://10.0.15.169:8001/play/66/index.m3u8
+#EXTINF:0,Солнце
+http://10.0.15.169:8001/play/86/index.m3u8
+#EXTINF:0,МАТЧ! ТВ HD
+http://10.0.15.170:8002/play/94/index.m3u8
+#EXTINF:0,НСТ
+http://10.0.15.172:8004/play/12/index.m3u8
+#EXTINF:0,Киносвидание
+http://10.0.15.170:8002/play/16/index.m3u8
+#EXTINF:0,МАТЧ ТВ
+http://10.0.15.169:8001/play/20/index.m3u8
+#EXTINF:0,Звезда
+http://10.0.15.170:8002/play/24/index.m3u8
+#EXTINF:0,Star Cinema
+http://10.0.15.169:8001/play/41/index.m3u8
+#EXTINF:0,СТС Love
+http://10.0.15.171:8003/play/45/index.m3u8
+#EXTINF:0,Сарафан
+http://10.0.15.170:8002/play/48/index.m3u8
+#EXTINF:0,В гостях у сказки
+http://10.0.15.170:8002/play/51/index.m3u8
+#EXTINF:0,Союз
+http://10.0.15.169:8001/play/65/index.m3u8
+#EXTINF:0,Доктор
+http://10.0.15.172:8004/play/69/index.m3u8
+#EXTINF:0,5 Канал
+http://10.0.15.170:8002/play/72/index.m3u8
+#EXTINF:0,KinoJam2
+http://10.0.15.169:8001/play/39/index.m3u8
+#EXTINF:0,Star Family
+http://10.0.15.169:8001/play/91/index.m3u8
+#EXTINF:0,BRIDGE Русский Хит
+http://10.0.15.170:8002/play/97/index.m3u8
+#EXTINF:0,Пятница!
+http://10.0.15.172:8004/play/18/index.m3u8
+#EXTINF:0,Мосфильм. Золотая коллекция.
+http://10.0.15.172:8004/play/47/index.m3u8
+#EXTINF:0,viju TV1000
+http://10.0.15.171:8003/play/71/index.m3u8
+#EXTINF:0,Охота и рыбалка
+http://10.0.15.172:8004/play/101/index.m3u8
+#EXTINF:0,Курай ТВ
+http://10.0.15.170:8002/play/123/index.m3u8
+#EXTINF:0,ANI
+http://10.0.15.171:8003/play/150/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+http://10.0.15.171:8003/play/188/index.m3u8
+#EXTINF:0,Матч! Игра
+http://10.0.15.171:8003/play/223/index.m3u8
+#EXTINF:0,ТВ21
+http://10.0.15.170:8002/play/21/index.m3u8
+#EXTINF:0,Любимое кино
+http://10.0.15.169:8001/play/49/index.m3u8
+#EXTINF:0,Авто плюс
+http://10.0.15.171:8003/play/73/index.m3u8
+#EXTINF:0,Ретро ТВ
+http://10.0.15.172:8004/play/103/index.m3u8
+#EXTINF:0,Первый вегетарианский
+http://10.0.15.170:8002/play/126/index.m3u8
+#EXTINF:0,БСТ
+http://10.0.15.171:8003/play/153/index.m3u8
+#EXTINF:0,Кинеко
+http://10.0.15.169:8001/play/192/index.m3u8
+#EXTINF:0,Матч! Боец
+http://10.0.15.172:8004/play/225/index.m3u8
+#EXTINF:0,Детский мир
+http://10.0.15.172:8004/play/50/index.m3u8
+#EXTINF:0,ТНВ - Планета
+http://10.0.15.170:8002/play/54/index.m3u8
+#EXTINF:0,Ю-ТВ
+http://10.0.15.172:8004/play/76/index.m3u8
+#EXTINF:0,Хит HD
+http://10.0.15.171:8003/play/81/index.m3u8
+#EXTINF:0,Драйв
+http://10.0.15.169:8001/play/104/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+http://10.0.15.169:8001/play/108/index.m3u8
+#EXTINF:0,Music Box Russia
+http://10.0.15.171:8003/play/127/index.m3u8
+#EXTINF:0,Тайны галактики
+http://10.0.15.170:8002/play/131/index.m3u8
+#EXTINF:0,Усадьба
+http://10.0.15.170:8002/play/105/index.m3u8
+#EXTINF:0,НТВ HD
+http://10.0.15.171:8003/play/116/index.m3u8
+#EXTINF:0,Уникум
+http://10.0.15.169:8001/play/119/index.m3u8
+#EXTINF:0,Спас
+http://10.0.15.172:8004/play/124/index.m3u8
+#EXTINF:0,Комедия
+http://10.0.15.170:8002/play/128/index.m3u8
+#EXTINF:0,FAN
+http://10.0.15.171:8003/play/143/index.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+http://10.0.15.172:8004/play/147/index.m3u8
+#EXTINF:0,НТВ Сериал
+http://10.0.15.171:8003/play/151/index.m3u8
+#EXTINF:0,Телеканал Домашний
+http://10.0.15.171:8003/play/160/index.m3u8
+#EXTINF:0,Киносемья
+http://10.0.15.172:8004/play/176/index.m3u8
+#EXTINF:0,KHL Prime
+http://10.0.15.170:8002/play/183/index.m3u8
+#EXTINF:0,Русский иллюзион
+http://10.0.15.171:8003/play/190/index.m3u8
+#EXTINF:0,Авто 24
+http://10.0.15.172:8004/play/195/index.m3u8
+#EXTINF:0,viju+ Megahit
+http://10.0.15.170:8002/play/216/index.m3u8
+#EXTINF:0,Hollywood
+http://10.0.15.170:8002/play/221/index.m3u8
+#EXTINF:0,Матч! Арена
+http://10.0.15.169:8001/play/224/index.m3u8
+#EXTINF:0,Еврокино
+http://10.0.15.172:8004/play/227/index.m3u8
+#EXTINF:0,Русский детектив
+http://10.0.15.170:8002/play/238/index.m3u8
+#EXTINF:0,Победа
+http://10.0.15.170:8002/play/117/index.m3u8
+#EXTINF:0,Киномикс HD
+http://10.0.15.170:8002/play/136/index.m3u8
+#EXTINF:0,ЖАРА
+http://10.0.15.171:8003/play/144/index.m3u8
+#EXTINF:0,A1
+http://10.0.15.172:8004/play/173/index.m3u8
+#EXTINF:0,Нижневартовск Live
+http://10.0.15.172:8004/play/180/index.m3u8
+#EXTINF:0,Глазами туриста HD
+http://10.0.15.172:8004/play/40/index.m3u8
+#EXTINF:0,viju+ Planet
+http://10.0.15.171:8003/play/217/index.m3u8
+#EXTINF:0,Кинопремьера HD
+http://10.0.15.172:8004/play/236/index.m3u8
+#EXTINF:0,Муз ТВ
+http://10.0.15.171:8003/play/130/index.m3u8
+#EXTINF:0,Точка отрыва
+http://10.0.15.172:8004/play/142/index.m3u8
+#EXTINF:0,E TV
+http://10.0.15.170:8002/play/148/index.m3u8
+#EXTINF:0,Русский роман
+http://10.0.15.171:8003/play/162/index.m3u8
+#EXTINF:0,Дикая охота HD
+http://10.0.15.172:8004/play/175/index.m3u8
+#EXTINF:0,KHL
+http://10.0.15.171:8003/play/184/index.m3u8
+#EXTINF:0,Gulli girl
+http://10.0.15.169:8001/play/199/index.m3u8
+#EXTINF:0,viju+ Comedy
+http://10.0.15.171:8003/play/215/index.m3u8
+#EXTINF:0,Мегаполис
+http://10.0.15.170:8002/play/222/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+http://10.0.15.171:8003/play/140/index.m3u8
+#EXTINF:0,BRIDGE HITS
+http://10.0.15.171:8003/play/161/index.m3u8
+#EXTINF:0,HDL
+http://10.0.15.171:8003/play/174/index.m3u8
+#EXTINF:0,Tiji TV
+http://10.0.15.172:8004/play/198/index.m3u8
+#EXTINF:0,Матч! Арена HD
+http://10.0.15.169:8001/play/213/index.m3u8
+#EXTINF:0,Amedia Premium
+http://10.0.15.172:8004/play/159/index.m3u8
+#EXTINF:0,Мир сериала
+http://10.0.15.171:8003/play/165/index.m3u8
+#EXTINF:0,Сапфир
+http://10.0.15.172:8004/play/194/index.m3u8
+#EXTINF:0,Беларусь 24
+http://10.0.15.169:8001/play/204/index.m3u8
+#EXTINF:0,Мужское Кино
+http://10.0.15.170:8002/play/167/index.m3u8
+#EXTINF:0,Живая природа HD
+http://10.0.15.169:8001/play/182/index.m3u8
+#EXTINF:0,ЮГРА
+http://10.0.15.169:8001/play/205/index.m3u8
+#EXTINF:0,СТС Kids
+http://10.0.15.171:8003/play/220/index.m3u8
+#EXTINF:0,Киноужас
+http://10.0.15.172:8004/play/229/index.m3u8
+#EXTINF:0,viju TV1000 Action
+http://10.0.15.172:8004/play/226/index.m3u8
+#EXTINF:0,Русский бестселлер
+http://10.0.15.169:8001/play/235/index.m3u8
+#EXTINF:0,ТНТ Music
+http://10.0.15.172:8004/play/228/index.m3u8
+#EXTINF:0,Food Time
+http://10.0.15.172:8004/play/240/index.m3u8
+#EXTINF:0,RTG HD
+http://10.0.15.169:8001/play/98/index.m3u8
+#EXTINF:0,viju+ Serial
+http://10.0.15.169:8001/play/2/index.m3u8
+#EXTINF:0,Иллюзион +
+http://10.0.15.169:8001/play/22/index.m3u8
+#EXTINF:0,Blue Hustler
+http://10.0.15.172:8004/play/28/index.m3u8
+#EXTINF:0,Русская ночь
+http://10.0.15.170:8002/play/77/index.m3u8
+#EXTINF:0,test
+http://10.0.15.168/ch43/index.m3u8
+#EXTINF:0,Start Air
+http://10.0.15.172:8004/play/15/index.m3u8
+#EXTINF:0,Start World
+http://10.0.15.172:8004/play/90/index.m3u8
+#EXTINF:0,Кино без границ
+http://10.0.15.171:8003/play/37/index.m3u8
+#EXTINF:0,Anime Kids
+http://10.0.15.172:8004/play/32/index.m3u8
+#EXTINF:0,Живи активно
+http://10.0.15.169:8001/play/201/index.m3u8
+#EXTINF:0,Лапки LIVE
+http://10.0.15.170:8002/play/58/index.m3u8
+#EXTINF:0,Дом кино
+http://10.0.15.169:8001/play/203/index.m3u8
+#EXTINF:0,КиноМульт
+http://10.0.15.169:8001/play/60/index.m3u8
